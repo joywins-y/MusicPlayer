@@ -1,0 +1,65 @@
+[
+    {
+        "image": "../source/说好不哭.jpg",
+        "audioSrc": "../source/说好不哭.mp3",
+        "name": "说好不哭",
+        "album": "说好不哭",
+        "singer": "周杰伦",
+        "duration": 200,
+        "isLike": true
+    },
+    {
+        "image": "../source/别再想见我.jpg",
+        "audioSrc": "../source/许光汉 - 别再想见我.mp3",
+        "name": "别再想见我",
+        "album": "别再想见我",
+        "singer": "许光汉",
+        "duration": 284,
+        "isLike": false
+    },
+    {
+        "image": "../source/告白气球.jpg",
+        "audioSrc": "../source/周杰伦 - 告白气球.mp3",
+        "name": "告白气球",
+        "album": "周杰伦的床边故事",
+        "singer": "周杰伦",
+        "duration": 215,
+        "isLike": false
+    },
+    {
+        "image": "../source/四季予你.jpg",
+        "audioSrc": "../source/程响 - 四季予你.mp3",
+        "name": "四季予你",
+        "album": "四季予你",
+        "singer": "程响",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/等你下课.jpg",
+        "audioSrc": "../source/等你下课.mp3",
+        "name": "等你下课",
+        "album": "等你下课",
+        "singer": "周杰伦",
+        "duration": 270,
+        "isLike": true
+    },
+    {
+        "image": "../source/苦尽甘来.jpg",
+        "audioSrc": "../source/翁梓铭 - 苦尽甘来.mp3",
+        "name": "苦尽甘来",
+        "album": "感·知",
+        "singer": "翁梓铭",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/Mojito.jpg",
+        "audioSrc": "../source/周杰伦 - Mojito.mp3",
+        "name": "Mojito",
+        "album": "Mojito",
+        "singer": "周杰伦",
+        "duration": 185,
+        "isLike": true
+    }
+]
